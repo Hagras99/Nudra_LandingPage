@@ -115,8 +115,8 @@ export const LandingPage: React.FC = () => {
 
           <div className="nl-hero-v2-img-frame">
             <img
-              src="/assets/images/hero-student-hijab.png"
-              alt="A university student holding books, looking toward her future"
+              src="/assets/images/hero-student-woman.png"
+              alt="A university student with notebook, looking toward her future"
               width="1024"
               height="1536"
               fetchPriority="high"
